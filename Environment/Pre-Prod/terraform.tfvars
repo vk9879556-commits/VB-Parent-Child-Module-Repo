@@ -11,4 +11,9 @@ rgs  = {
         name = "vb3"
         location = "West Europe"
     }
+     rg4= {
+        name = "vb4"
+        location = "West Europe"
+    }
 }
+
